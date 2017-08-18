@@ -26,15 +26,15 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: #000;
   line-height: 48px;
   display: inline;
 }
 
 h2 {
   font-weight: bold;
-  font-size: 24px;
-  color: #999;
+  font-size: 22px;
+  color: #ddd;
   line-height: 29px;
   padding: 10px;
 }
